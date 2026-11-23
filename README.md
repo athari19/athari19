@@ -14,8 +14,6 @@
 
 Data Science student at **Umm Al-Qura University** (Class of 2028). I enjoy turning raw, messy data into clear insights: cleaning it, exploring it, and building machine learning models on top of it.
 
-Currently looking for a **co-op training** opportunity.
-
 ### 🛠 Skills
 
 `Python` · `SQL` · `pandas` · `scikit-learn` · `Machine Learning` · `Data Preprocessing` · `Data Warehousing` · `Flask` · `SQLite` · `Jupyter`
